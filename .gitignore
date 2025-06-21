@@ -1,4 +1,5 @@
 .venv
 .idea
-data/filtered
+data/filtered/*.*
 logs
+models/*.*
