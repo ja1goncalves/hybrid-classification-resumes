@@ -41,7 +41,7 @@ research scientist,research scientist,research scientist,research scientist
 financial analyst,financial analyst,financial analyst,financial analyst
 automation testing,automation testing,automation testing,automation testing
 web designing,web designing,web designing,web designing
-informationtechnology,informationtechnology,informationtechnology,consultant
+informationtechnology,informationtechnology,informationtechnology,informationtechnology
 finance,finance,finance,finance
 psychologist,psychologist,psychologist,psychologist
 web designing,web designing,web designing,web designing
@@ -58,7 +58,7 @@ advocate,advocate,advocate,advocate
 blockchain,blockchain,blockchain,blockchain
 content writer,content writer,content writer,content writer
 data analyst,data analyst,data analyst,data analyst
-ai specialist,ai specialist,ai specialist,ai specialist
+ai specialist,ai specialist,ai specialist,ai researcher
 healthcare,healthcare,healthcare,healthcare
 cloud architect,cloud architect,cloud architect,cloud architect
 mechanical engineer,mechanical engineer,mechanical engineer,mechanical engineer
@@ -78,7 +78,7 @@ ai researcher,ai researcher,ai researcher,ai researcher
 python developer,python developer,python developer,python developer
 civil engineer,civil engineer,civil engineer,civil engineer
 data analyst,data analyst,data analyst,data analyst
-aviation,aviation,informationtechnology,consultant
+aviation,aviation,informationtechnology,aviation
 dentist,dentist,dentist,dentist
 stack developer,stack developer,stack developer,stack developer
 mobile app developer iosandroid,mobile app developer iosandroid,mobile app developer iosandroid,mobile app developer iosandroid
@@ -88,7 +88,7 @@ construction,construction,construction,construction
 lawyer,lawyer,lawyer,lawyer
 mobile app developer iosandroid,mobile app developer iosandroid,mobile app developer iosandroid,mobile app developer iosandroid
 data analyst,data analyst,data analyst,data analyst
-sale,sale,healthcare,advocate
+sale,sale,healthcare,sale
 system analyst,system analyst,system analyst,system analyst
 cloud engineer,cloud engineer,cloud engineer,cloud engineer
 lawyer,lawyer,lawyer,lawyer
@@ -118,7 +118,7 @@ web designing,web designing,web designing,web designing
 agriculture,agriculture,agriculture,agriculture
 aviation,aviation,construction,aviation
 lawyer,lawyer,lawyer,lawyer
-designer,engineering,informationtechnology,consultant
+designer,engineering,informationtechnology,designer
 python developer,python developer,python developer,python developer
 frontend developer,frontend developer,frontend developer,frontend developer
 graphic designer,graphic designer,graphic designer,graphic designer
@@ -244,12 +244,12 @@ ai researcher,ai researcher,ai researcher,ai researcher
 business analyst,business analyst,business analyst,business analyst
 personal trainer,personal trainer,personal trainer,personal trainer
 business analyst,business analyst,business analyst,business analyst
-sale,sale,healthcare,sale
+sale,sale,healthcare,healthcare
 web developer,web developer,web developer,web developer
 apparel,apparel,apparel,apparel
 robotic engineer,robotic engineer,robotic engineer,robotic engineer
 robotic engineer,robotic engineer,robotic engineer,robotic engineer
-engineering,engineering,advocate,consultant
+engineering,engineering,advocate,agriculture
 research scientist,research scientist,research scientist,research scientist
 journalist,journalist,journalist,journalist
 lawyer,lawyer,lawyer,lawyer
@@ -264,7 +264,7 @@ environmental scientist,environmental scientist,environmental scientist,environm
 creative director,creative director,creative director,creative director
 lawyer,lawyer,lawyer,lawyer
 aviation,aviation,aviation,aviation
-construction,construction,construction,consultant
+construction,construction,construction,construction
 operation manager,operation manager,operation manager,operation manager
 businessdevelopment,businessdevelopment,digitalmedia,businessdevelopment
 graphic designer,graphic designer,graphic designer,graphic designer
@@ -289,7 +289,7 @@ dotnet developer,dotnet developer,dotnet developer,dotnet developer
 automation testing,automation testing,automation testing,automation testing
 dentist,dentist,dentist,dentist
 data analyst,data analyst,data analyst,data analyst
-art,art,advocate,consultant
+art,art,advocate,fitness
 network security engineer,network security engineer,network security engineer,network security engineer
 finance,finance,finance,finance
 automation testing,automation testing,automation testing,automation testing
@@ -395,8 +395,8 @@ chef,sale,healthcare,sale
 ai researcher,ai researcher,ai researcher,ai researcher
 database,database,database,database
 designer,designer,designer,designer
-apparel,sale,construction,sale
-art,consultant,consultant,consultant
+apparel,sale,construction,apparel
+art,consultant,consultant,advocate
 civil engineer,civil engineer,civil engineer,civil engineer
 banking,banking,banking,banking
 frontend developer,frontend developer,frontend developer,frontend developer
@@ -419,9 +419,9 @@ agriculture,agriculture,agriculture,agriculture
 cybersecurity analyst,cybersecurity analyst,cybersecurity analyst,cybersecurity analyst
 aviation,aviation,aviation,aviation
 biomedical engineer,biomedical engineer,biomedical engineer,biomedical engineer
-designer,designer,designer,consultant
+designer,designer,designer,designer
 digitalmedia,digitalmedia,digitalmedia,digitalmedia
-accountant,accountant,automobile,advocate
+accountant,accountant,automobile,agriculture
 machine learn engineer,machine learn engineer,machine learn engineer,machine learn engineer
 automation testing,automation testing,automation testing,automation testing
 publicrelation,publicrelation,publicrelation,publicrelation
@@ -466,15 +466,15 @@ backend developer,backend developer,backend developer,backend developer
 mechanical engineer,mechanical engineer,mechanical engineer,mechanical engineer
 graphic designer,graphic designer,graphic designer,graphic designer
 cloud architect,cloud architect,cloud architect,cloud architect
-fitness,fitness,advocate,advocate
+fitness,fitness,advocate,fitness
 publicrelation,publicrelation,apparel,publicrelation
 java developer,java developer,java developer,java developer
 publicrelation,publicrelation,publicrelation,publicrelation
 banking,businessdevelopment,banking,banking
-bpo,informationtechnology,consultant,informationtechnology
+bpo,informationtechnology,consultant,network security engineer
 customer service representative,customer service representative,customer service representative,customer service representative
 health fitness,health fitness,health fitness,health fitness
-designer,designer,apparel,designer
+designer,designer,apparel,apparel
 ai researcher,ai researcher,ai researcher,ai researcher
 sap developer,sap developer,sap developer,sap developer
 sale,sale,digitalmedia,sale
@@ -523,7 +523,7 @@ devops engineer,devops engineer,devops engineer,devops engineer
 physician,physician,physician,physician
 software engineer,software engineer,software engineer,software engineer
 hr specialist,hr specialist,hr specialist,hr specialist
-healthcare,fitness,automobile,advocate
+healthcare,fitness,automobile,consultant
 web designing,web designing,web designing,web designing
 mobile app developer iosandroid,mobile app developer iosandroid,mobile app developer iosandroid,mobile app developer iosandroid
 network security engineer,network security engineer,network security engineer,network security engineer
@@ -558,7 +558,7 @@ testing,testing,testing,testing
 electrical engineering,electrical engineering,electrical engineering,electrical engineering
 accountant,accountant,accountant,accountant
 psychologist,psychologist,psychologist,psychologist
-informationtechnology,informationtechnology,informationtechnology,consultant
+informationtechnology,informationtechnology,informationtechnology,informationtechnology
 construction manager,construction manager,construction manager,construction manager
 database administrator,database administrator,database administrator,database administrator
 etl developer,etl developer,etl developer,etl developer
@@ -667,7 +667,7 @@ finance,finance,finance,finance
 aviation,aviation,aviation,aviation
 seo specialist,seo specialist,seo specialist,seo specialist
 sale representative,sale representative,sale representative,sale representative
-consultant,sale,digitalmedia,advocate
+consultant,sale,digitalmedia,consultant
 testing,testing,testing,testing
 dotnet developer,dotnet developer,dotnet developer,dotnet developer
 engineering,engineering,engineering,engineering
@@ -795,7 +795,7 @@ fitness,fitness,fitness,fitness
 creative director,creative director,creative director,creative director
 pilot,pilot,pilot,pilot
 finance,finance,finance,finance
-engineering,engineering,advocate,consultant
+engineering,engineering,advocate,agriculture
 publicrelation,publicrelation,publicrelation,publicrelation
 marketing manager,marketing manager,marketing manager,marketing manager
 data analyst,data analyst,data analyst,data analyst
@@ -809,12 +809,12 @@ pilot,pilot,pilot,pilot
 event planner,event planner,event planner,event planner
 ux designer,ux designer,ux designer,ux designer
 etl developer,etl developer,etl developer,etl developer
-healthcare,healthcare,healthcare,advocate
+healthcare,healthcare,healthcare,healthcare
 creative director,creative director,creative director,creative director
 psychologist,psychologist,psychologist,psychologist
 financial analyst,financial analyst,financial analyst,financial analyst
 publicrelation,publicrelation,publicrelation,publicrelation
-digitalmedia,digitalmedia,digitalmedia,businessdevelopment
+digitalmedia,digitalmedia,digitalmedia,digitalmedia
 database,database,database,database
 agriculture,agriculture,agriculture,agriculture
 hadoop,hadoop,hadoop,hadoop
@@ -823,7 +823,7 @@ journalist,journalist,journalist,journalist
 pilot,pilot,pilot,pilot
 bpo,bpo,bpo,bpo
 advocate,advocate,advocate,advocate
-machine learn engineer,machine learn engineer,machine learn engineer,ai specialist
+machine learn engineer,machine learn engineer,machine learn engineer,machine learn engineer
 event planner,event planner,event planner,event planner
 sale representative,sale representative,sale representative,sale representative
 biomedical engineer,biomedical engineer,biomedical engineer,biomedical engineer
@@ -838,7 +838,7 @@ mechanical engineer,mechanical engineer,mechanical engineer,mechanical engineer
 businessdevelopment,banking,advocate,banking
 robotic engineer,robotic engineer,robotic engineer,robotic engineer
 businessdevelopment,businessdevelopment,businessdevelopment,businessdevelopment
-ai specialist,ai specialist,ai specialist,ai specialist
+ai specialist,ai specialist,ai specialist,machine learn engineer
 python developer,python developer,python developer,python developer
 aviation,aviation,aviation,aviation
 content writer,content writer,content writer,content writer
@@ -859,7 +859,7 @@ physician,physician,physician,physician
 graphic designer,graphic designer,graphic designer,graphic designer
 cybersecurity analyst,cybersecurity analyst,cybersecurity analyst,cybersecurity analyst
 designer,designer,designer,designer
-bpo,informationtechnology,consultant,informationtechnology
+bpo,informationtechnology,consultant,network security engineer
 hadoop,hadoop,hadoop,hadoop
 business analyst,business analyst,business analyst,business analyst
 data scientist,data scientist,data scientist,data scientist
@@ -887,7 +887,7 @@ urban planner,urban planner,urban planner,urban planner
 sale,sale,sale,sale
 backend developer,backend developer,backend developer,backend developer
 agriculture,agriculture,agriculture,agriculture
-fitness,fitness,aviation,aviation
+fitness,fitness,aviation,fitness
 advocate,advocate,advocate,advocate
 data scientist,data scientist,data scientist,data scientist
 informationtechnology,informationtechnology,informationtechnology,consultant
@@ -930,7 +930,7 @@ database,database,database,database
 construction manager,construction manager,construction manager,construction manager
 informationtechnology,informationtechnology,informationtechnology,informationtechnology
 seo specialist,seo specialist,seo specialist,seo specialist
-machine learn engineer,machine learn engineer,data scientist,consultant
+machine learn engineer,machine learn engineer,data scientist,machine learn engineer
 agriculture,agriculture,agriculture,agriculture
 cloud engineer,cloud engineer,cloud engineer,cloud engineer
 system analyst,system analyst,system analyst,system analyst
@@ -941,7 +941,7 @@ hr specialist,hr specialist,hr specialist,hr specialist
 environmental scientist,environmental scientist,environmental scientist,environmental scientist
 electrician,electrician,electrician,electrician
 database,database,database,database
-designer,sale,digitalmedia,advocate
+designer,sale,digitalmedia,apparel
 businessdevelopment,businessdevelopment,businessdevelopment,businessdevelopment
 healthcare,healthcare,healthcare,healthcare
 pilot,pilot,pilot,pilot
@@ -951,7 +951,7 @@ automation testing,automation testing,automation testing,automation testing
 stack developer,stack developer,stack developer,stack developer
 ai researcher,ai researcher,ai researcher,ai researcher
 business analyst,business analyst,business analyst,business analyst
-digitalmedia,digitalmedia,digitalmedia,businessdevelopment
+digitalmedia,digitalmedia,digitalmedia,digitalmedia
 consultant,consultant,consultant,consultant
 urban planner,urban planner,urban planner,urban planner
 personal trainer,personal trainer,personal trainer,personal trainer
@@ -1043,7 +1043,7 @@ biomedical engineer,biomedical engineer,biomedical engineer,biomedical engineer
 physician,physician,physician,physician
 python developer,python developer,python developer,python developer
 machine learn engineer,machine learn engineer,machine learn engineer,machine learn engineer
-aviation,aviation,informationtechnology,consultant
+aviation,aviation,informationtechnology,aviation
 web developer,web developer,web developer,web developer
 biomedical engineer,biomedical engineer,biomedical engineer,biomedical engineer
 cloud architect,cloud architect,cloud architect,cloud architect
@@ -1068,7 +1068,7 @@ informationtechnology,informationtechnology,informationtechnology,informationtec
 marketing manager,marketing manager,marketing manager,marketing manager
 cybersecurity analyst,cybersecurity analyst,cybersecurity analyst,cybersecurity analyst
 physician,physician,physician,physician
-hr,hr,devops engineer,consultant
+hr,hr,devops engineer,hr
 civil engineer,civil engineer,civil engineer,civil engineer
 cybersecurity analyst,cybersecurity analyst,cybersecurity analyst,cybersecurity analyst
 designer,designer,designer,designer
@@ -1079,7 +1079,7 @@ software engineer,software engineer,software engineer,software engineer
 database administrator,database administrator,database administrator,database administrator
 data analyst,data analyst,data analyst,data analyst
 data analyst,data analyst,data analyst,data analyst
-healthcare,sale,healthcare,sale
+healthcare,sale,healthcare,advocate
 database,database,database,database
 database,database,database,database
 lawyer,lawyer,lawyer,lawyer
@@ -1095,13 +1095,13 @@ mechanical engineer,mechanical engineer,mechanical engineer,mechanical engineer
 operation manager,operation manager,operation manager,operation manager
 blockchain,blockchain,blockchain,blockchain
 robotic engineer,robotic engineer,robotic engineer,robotic engineer
-ai specialist,ai specialist,ai specialist,ai specialist
+ai specialist,ai specialist,ai specialist,machine learn engineer
 web developer,web developer,web developer,web developer
 database,database,database,database
 hr,hr,hr,hr
 psychologist,psychologist,psychologist,psychologist
 environmental scientist,environmental scientist,environmental scientist,environmental scientist
-ai specialist,machine learn engineer,machine learn engineer,machine learn engineer
+ai specialist,machine learn engineer,machine learn engineer,ai specialist
 ai specialist,ai specialist,ai specialist,ai specialist
 operation manager,operation manager,operation manager,operation manager
 devops engineer,devops engineer,devops engineer,devops engineer
@@ -1122,7 +1122,7 @@ machine learn engineer,machine learn engineer,machine learn engineer,machine lea
 designer,designer,designer,designer
 teacher,teacher,teacher,teacher
 electrician,electrician,electrician,electrician
-designer,designer,designer,consultant
+designer,designer,designer,designer
 legal consultant,legal consultant,legal consultant,legal consultant
 creative director,creative director,creative director,creative director
 web designing,web designing,web designing,web designing
@@ -1179,7 +1179,7 @@ engineering,engineering,advocate,engineering
 biomedical engineer,biomedical engineer,biomedical engineer,biomedical engineer
 construction manager,construction manager,construction manager,construction manager
 fitness coach,fitness coach,fitness coach,fitness coach
-fitness,fitness,fitness,sale
+fitness,fitness,fitness,fitness
 business analyst,business analyst,business analyst,business analyst
 psychologist,psychologist,psychologist,psychologist
 blockchain,blockchain,blockchain,blockchain
@@ -1202,11 +1202,11 @@ journalist,journalist,journalist,journalist
 electrician,electrician,electrician,electrician
 personal trainer,personal trainer,personal trainer,personal trainer
 web designing,web designing,web designing,web designing
-accountant,accountant,accountant,finance
+accountant,accountant,accountant,accountant
 network security engineer,network security engineer,network security engineer,network security engineer
 finance,finance,finance,finance
 hr specialist,hr specialist,hr specialist,hr specialist
-engineering,sale,healthcare,advocate
+engineering,sale,healthcare,automobile
 seo specialist,seo specialist,seo specialist,seo specialist
 consultant,consultant,consultant,consultant
 operation manager,operation manager,operation manager,operation manager
@@ -1352,7 +1352,7 @@ cybersecurity analyst,cybersecurity analyst,cybersecurity analyst,cybersecurity 
 customer service representative,customer service representative,customer service representative,customer service representative
 personal trainer,personal trainer,personal trainer,personal trainer
 finance,finance,finance,finance
-banking,finance,accountant,finance
+banking,finance,accountant,agriculture
 finance,finance,finance,finance
 business analyst,business analyst,business analyst,business analyst
 publicrelation,publicrelation,publicrelation,publicrelation
@@ -1405,7 +1405,7 @@ fitness,fitness,fitness,fitness
 testing,testing,testing,testing
 event planner,event planner,event planner,event planner
 businessdevelopment,businessdevelopment,businessdevelopment,businessdevelopment
-healthcare,informationtechnology,informationtechnology,informationtechnology
+healthcare,informationtechnology,informationtechnology,consultant
 advocate,advocate,advocate,advocate
 marketing manager,marketing manager,marketing manager,marketing manager
 testing,testing,testing,testing
@@ -1420,7 +1420,7 @@ graphic designer,graphic designer,graphic designer,graphic designer
 dentist,dentist,dentist,dentist
 devops engineer,devops engineer,devops engineer,devops engineer
 seo specialist,seo specialist,seo specialist,seo specialist
-informationtechnology,informationtechnology,informationtechnology,informationtechnology
+informationtechnology,informationtechnology,informationtechnology,aviation
 testing,testing,testing,testing
 art,informationtechnology,network security engineer,informationtechnology
 software engineer,software engineer,software engineer,software engineer
@@ -1452,7 +1452,7 @@ business analyst,business analyst,business analyst,business analyst
 biomedical engineer,biomedical engineer,biomedical engineer,biomedical engineer
 consultant,businessdevelopment,sale,businessdevelopment
 pilot,pilot,pilot,pilot
-advocate,hr,advocate,advocate
+advocate,hr,advocate,hr
 pharmacist,pharmacist,pharmacist,pharmacist
 sale representative,sale representative,sale representative,sale representative
 lawyer,lawyer,lawyer,lawyer
@@ -1541,7 +1541,7 @@ engineering,engineering,engineering,engineering
 agriculture,teacher,teacher,teacher
 network security engineer,network security engineer,network security engineer,network security engineer
 healthcare,healthcare,healthcare,healthcare
-advocate,healthcare,automobile,advocate
+advocate,healthcare,automobile,healthcare
 system analyst,system analyst,system analyst,system analyst
 sale,sale,sale,sale
 testing,testing,testing,testing
@@ -1692,7 +1692,7 @@ machine learn engineer,machine learn engineer,machine learn engineer,machine lea
 apparel,hr,designer,hr
 environmental scientist,environmental scientist,environmental scientist,environmental scientist
 apparel,apparel,apparel,apparel
-advocate,advocate,digitalmedia,advocate
+advocate,advocate,digitalmedia,finance
 etl developer,etl developer,etl developer,etl developer
 blockchain,blockchain,blockchain,blockchain
 biomedical engineer,biomedical engineer,biomedical engineer,biomedical engineer
@@ -1702,7 +1702,7 @@ dentist,dentist,dentist,dentist
 testing,testing,testing,testing
 sale,sale,sale,sale
 automobile,automobile,automobile,automobile
-informationtechnology,informationtechnology,consultant,consultant
+informationtechnology,informationtechnology,consultant,informationtechnology
 web developer,web developer,web developer,web developer
 agriculture,agriculture,agriculture,agriculture
 backend developer,backend developer,backend developer,backend developer
@@ -1846,7 +1846,7 @@ electrician,electrician,electrician,electrician
 pilot,pilot,pilot,pilot
 designer,designer,designer,designer
 content writer,content writer,content writer,content writer
-business analyst,advocate,consultant,consultant
+business analyst,advocate,consultant,advocate
 automation testing,automation testing,automation testing,automation testing
 supply chain manager,supply chain manager,supply chain manager,supply chain manager
 health fitness,health fitness,health fitness,health fitness
@@ -1855,7 +1855,7 @@ ai specialist,ai specialist,ai specialist,ai specialist
 database,database,database,database
 chef,chef,chef,chef
 electrician,electrician,electrician,electrician
-consultant,informationtechnology,advocate,informationtechnology
+consultant,informationtechnology,advocate,consultant
 digitalmedia,digitalmedia,digitalmedia,digitalmedia
 event planner,event planner,event planner,event planner
 financial analyst,financial analyst,financial analyst,financial analyst
@@ -1875,7 +1875,7 @@ hadoop,hadoop,hadoop,hadoop
 sale representative,sale representative,sale representative,sale representative
 dentist,dentist,dentist,dentist
 nurse,nurse,nurse,nurse
-banking,construction,consultant,consultant
+banking,construction,consultant,agriculture
 agriculture,agriculture,agriculture,agriculture
 pmo,pmo,pmo,pmo
 event planner,event planner,event planner,event planner
@@ -1911,7 +1911,7 @@ banking,banking,banking,banking
 biomedical engineer,biomedical engineer,biomedical engineer,biomedical engineer
 web designing,web designing,web designing,web designing
 bpo,bpo,bpo,bpo
-engineering,engineering,automobile,engineering
+engineering,engineering,automobile,advocate
 pilot,pilot,pilot,pilot
 healthcare,fitness,fitness,fitness
 architect,architect,architect,architect
@@ -1928,7 +1928,7 @@ research scientist,research scientist,research scientist,research scientist
 art,art,art,art
 software engineer,software engineer,software engineer,software engineer
 construction manager,construction manager,construction manager,construction manager
-sale,sale,advocate,sale
+sale,sale,advocate,advocate
 aviation,aviation,aviation,aviation
 data science,data science,data science,data science
 electrician,electrician,electrician,electrician
@@ -1983,7 +1983,7 @@ cloud engineer,cloud engineer,cloud engineer,cloud engineer
 digitalmedia,digitalmedia,digitalmedia,digitalmedia
 ai researcher,ai researcher,ai researcher,ai researcher
 environmental scientist,environmental scientist,environmental scientist,environmental scientist
-aviation,aviation,consultant,engineering
+aviation,aviation,consultant,aviation
 urban planner,urban planner,urban planner,urban planner
 hadoop,hadoop,hadoop,hadoop
 system analyst,system analyst,system analyst,system analyst
@@ -2004,7 +2004,7 @@ electrician,electrician,electrician,electrician
 customer service representative,customer service representative,customer service representative,customer service representative
 finance,finance,finance,finance
 pilot,pilot,pilot,pilot
-art,sale,digitalmedia,advocate
+art,sale,digitalmedia,apparel
 automation testing,automation testing,automation testing,automation testing
 machine learn engineer,machine learn engineer,machine learn engineer,machine learn engineer
 art,art,art,art
@@ -2055,7 +2055,7 @@ cybersecurity analyst,cybersecurity analyst,cybersecurity analyst,cybersecurity 
 data analyst,data analyst,data analyst,data analyst
 ai researcher,ai researcher,ai researcher,ai researcher
 system analyst,system analyst,system analyst,system analyst
-finance,accountant,digitalmedia,advocate
+finance,accountant,digitalmedia,agriculture
 teacher,teacher,teacher,teacher
 dentist,dentist,dentist,dentist
 pmo,pmo,pmo,pmo
@@ -2182,7 +2182,7 @@ frontend developer,frontend developer,frontend developer,frontend developer
 accountant,accountant,accountant,accountant
 apparel,apparel,apparel,apparel
 robotic engineer,robotic engineer,robotic engineer,robotic engineer
-apparel,designer,apparel,designer
+apparel,designer,apparel,apparel
 businessdevelopment,businessdevelopment,businessdevelopment,businessdevelopment
 robotic engineer,robotic engineer,robotic engineer,robotic engineer
 designer,designer,designer,designer
@@ -2242,7 +2242,7 @@ healthcare,banking,banking,banking
 social worker,social worker,social worker,social worker
 construction,construction,construction,construction
 personal trainer,personal trainer,personal trainer,personal trainer
-aviation,aviation,consultant,engineering
+aviation,aviation,consultant,aviation
 frontend developer,frontend developer,frontend developer,frontend developer
 lawyer,lawyer,lawyer,lawyer
 sale representative,sale representative,sale representative,sale representative
@@ -2309,17 +2309,17 @@ teacher,teacher,teacher,teacher
 journalist,journalist,journalist,journalist
 electrician,electrician,electrician,electrician
 lawyer,lawyer,lawyer,lawyer
-finance,finance,banking,sale
+finance,finance,banking,apparel
 sap developer,sap developer,sap developer,sap developer
 devops engineer,devops engineer,devops engineer,devops engineer
-teacher,teacher,teacher,consultant
+teacher,teacher,teacher,teacher
 creative director,creative director,creative director,creative director
 customer service representative,customer service representative,customer service representative,customer service representative
 event planner,event planner,event planner,event planner
 healthcare,banking,banking,banking
 sale representative,sale representative,sale representative,sale representative
 construction manager,construction manager,construction manager,construction manager
-healthcare,fitness,automobile,advocate
+healthcare,fitness,automobile,healthcare
 pilot,pilot,pilot,pilot
 aviation,aviation,aviation,aviation
 pmo,pmo,pmo,pmo
@@ -2435,7 +2435,7 @@ accountant,accountant,accountant,accountant
 hr,hr,hr,hr
 cloud architect,cloud architect,cloud architect,cloud architect
 machine learn engineer,machine learn engineer,machine learn engineer,machine learn engineer
-machine learn engineer,machine learn engineer,machine learn engineer,machine learn engineer
+machine learn engineer,machine learn engineer,machine learn engineer,ai specialist
 cybersecurity analyst,cybersecurity analyst,cybersecurity analyst,cybersecurity analyst
 apparel,apparel,apparel,apparel
 ai researcher,ai researcher,ai researcher,ai researcher
@@ -2465,7 +2465,7 @@ event planner,event planner,event planner,event planner
 content writer,content writer,content writer,content writer
 robotic engineer,robotic engineer,robotic engineer,robotic engineer
 electrical engineering,electrical engineering,electrical engineering,electrical engineering
-chef,chef,advocate,advocate
+chef,chef,advocate,chef
 seo specialist,seo specialist,seo specialist,seo specialist
 hr,hr,hr,hr
 machine learn engineer,machine learn engineer,ai specialist,ai specialist
@@ -2488,8 +2488,8 @@ automobile,automobile,automobile,automobile
 data scientist,data scientist,data scientist,data scientist
 construction manager,construction manager,construction manager,construction manager
 construction,construction,construction,construction
-ai specialist,ai specialist,ai specialist,ai specialist
-healthcare,advocate,digitalmedia,advocate
+ai specialist,ai specialist,ai specialist,machine learn engineer
+healthcare,advocate,digitalmedia,healthcare
 pilot,pilot,pilot,pilot
 sap developer,sap developer,sap developer,sap developer
 database,database,database,database
@@ -2590,7 +2590,7 @@ product manager,product manager,product manager,product manager
 apparel,designer,designer,designer
 testing,testing,testing,testing
 healthcare,healthcare,healthcare,healthcare
-art,informationtechnology,advocate,informationtechnology
+art,informationtechnology,advocate,art
 nurse,nurse,nurse,nurse
 legal consultant,legal consultant,legal consultant,legal consultant
 mobile app developer iosandroid,mobile app developer iosandroid,mobile app developer iosandroid,mobile app developer iosandroid
@@ -2601,7 +2601,7 @@ architect,architect,architect,architect
 business analyst,business analyst,business analyst,business analyst
 social worker,social worker,social worker,social worker
 physician,physician,physician,physician
-teacher,teacher,healthcare,advocate
+teacher,teacher,healthcare,healthcare
 robotic engineer,robotic engineer,robotic engineer,robotic engineer
 journalist,journalist,journalist,journalist
 sale,sale,sale,sale
@@ -2672,12 +2672,12 @@ pilot,pilot,pilot,pilot
 designer,designer,designer,designer
 machine learn engineer,machine learn engineer,machine learn engineer,machine learn engineer
 accountant,accountant,finance,accountant
-banking,finance,accountant,finance
+banking,finance,accountant,advocate
 engineering,engineering,advocate,engineering
 web designing,web designing,web designing,web designing
 hr specialist,hr specialist,hr specialist,hr specialist
 data scientist,data scientist,data scientist,data scientist
-fitness,fitness,fitness,sale
+fitness,fitness,fitness,fitness
 pmo,pmo,pmo,pmo
 construction manager,construction manager,construction manager,construction manager
 software engineer,software engineer,software engineer,software engineer
@@ -2707,7 +2707,7 @@ backend developer,backend developer,backend developer,backend developer
 businessdevelopment,businessdevelopment,businessdevelopment,businessdevelopment
 blockchain,blockchain,blockchain,blockchain
 devops engineer,devops engineer,devops engineer,devops engineer
-apparel,hr,healthcare,advocate
+apparel,hr,healthcare,hr
 banking,banking,banking,banking
 consultant,consultant,consultant,consultant
 architect,architect,architect,architect
@@ -2715,7 +2715,7 @@ backend developer,backend developer,backend developer,backend developer
 graphic designer,graphic designer,graphic designer,graphic designer
 psychologist,psychologist,psychologist,psychologist
 mechanical engineer,mechanical engineer,mechanical engineer,mechanical engineer
-art,sale,art,sale
+art,sale,art,art
 hr specialist,hr specialist,hr specialist,hr specialist
 mechanical engineer,mechanical engineer,mechanical engineer,mechanical engineer
 engineering,engineering,engineering,engineering
